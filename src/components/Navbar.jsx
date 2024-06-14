@@ -13,7 +13,7 @@ const Navbar = () => {
         <img src={logo} alt="Logo" className="logo" />
       </div>
 
-      <NavLink className={setClass} to="/">
+      <NavLink className={setClass} to="/home">
         Home
       </NavLink>
 
